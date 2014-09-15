@@ -1,6 +1,7 @@
 ## yum.my
 ### Code Badges
 build status icon
+[![Build Status](https://travis-ci.org/SuperArtie/yum.my.svg?branch=master)](https://travis-ci.org/SuperArtie/yum.my)
 coverage status icon
 [![Coverage Status](https://coveralls.io/repos/SuperArtie/yum.my/badge.png)](https://coveralls.io/r/SuperArtie/yum.my)
 
