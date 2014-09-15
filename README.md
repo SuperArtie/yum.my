@@ -1,7 +1,8 @@
-## name of project
+## yum.my
 ### Code Badges
 build status icon
 coverage status icon
+[![Coverage Status](https://coveralls.io/repos/SuperArtie/yum.my/badge.png)](https://coveralls.io/r/SuperArtie/yum.my)
 
 ### Screenshots
 ![Image1](https://raw.githubusercontent.com/nss-cohort-2014-06-07/express-template/master/docs/screenshots/one.jpg)
@@ -40,7 +41,7 @@ $ npm test
 ```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Nathan Vasquez](https://github.com/superartie)
 
 ### License
 [MIT](LICENSE)
